@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-![App Screenshot](dashboard 1.png)
+![App Screenshot](dashboard1.png)
 
 
 
