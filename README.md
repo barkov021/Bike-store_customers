@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-![App Screenshot](WeightDeltaVsRecoveryDelta.png)
+![App Screenshot](dashboard 1.png)
 
 
 
